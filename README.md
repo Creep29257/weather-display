@@ -171,3 +171,17 @@ L'image finale est en mode `P` (palettisé) avec les indices exacts de l'Inky, p
 | 0.15 | Découpage en modules, option `--preview`, chemins relatifs au script, correction de chevauchements (température / icône, pluie / vent) |
 | 0.14 | Image palettisée Inky, icônes recolorisées en aplats, lune dessinée à la place de l'emoji, fenêtre de l'agenda corrigée (fuseau horaire), agenda en noir |
 | 0.13 | Icônes PNG, agenda groupé par date |
+
+## 11. Crédits et licences
+
+- **Icônes météo** : © Dovora Interactive, pack « Modern », sous licence
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+  Elles sont recolorisées au chargement pour l'e-ink (voir `ATTRIBUTION.md`).
+- **Code** : voir le fichier `LICENSE`.
+
+## 11. Crédits et licences
+
+- **Icônes météo** : © Dovora Interactive, pack « Modern », sous licence
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+  Elles sont recolorisées au chargement pour l'e-ink (voir `ATTRIBUTION.md`).
+- **Code** : voir le fichier `LICENSE`.
