@@ -179,9 +179,3 @@ L'image finale est en mode `P` (palettisé) avec les indices exacts de l'Inky, p
   Elles sont recolorisées au chargement pour l'e-ink (voir `ATTRIBUTION.md`).
 - **Code** : voir le fichier `LICENSE`.
 
-## 11. Crédits et licences
-
-- **Icônes météo** : © Dovora Interactive, pack « Modern », sous licence
-  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-  Elles sont recolorisées au chargement pour l'e-ink (voir `ATTRIBUTION.md`).
-- **Code** : voir le fichier `LICENSE`.
